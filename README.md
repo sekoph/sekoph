@@ -1,4 +1,9 @@
-#![My Avatar](./diggg.png)                          # Hi there, I'm Reinhard Seko Okola! 👋
+<div align="left">
+  <img src="./diggg.png" alt="My Avatar" width="120" align="left" />
+  <div>
+    <h3>Hi there, I'm Reinhard Seko Okola! 👋</h3>
+  </div>
+</div>
 
 ---
 
