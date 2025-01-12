@@ -1,4 +1,4 @@
-## 🖼️ Profile Image  ![My Avatar](./digg.png)                          # Hi there, I'm Reinhard Seko Okola! 👋
+## 🖼️ Profile Image  ![My Avatar](./dig(2).png)                          # Hi there, I'm Reinhard Seko Okola! 👋
 
 ---
 
