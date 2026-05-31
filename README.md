@@ -13,7 +13,7 @@
 ---
 
 ## ⚡ About Me
-- 🔹 Experienced in **React Native, Next.js, FastAPI, Microservices, and Spring Boot**
+- 🔹 Experienced in **React Native, Next.js, FastAPI, Microservices, Django, Go and Spring Boot(Java)**
 - 🏗️ Building an **online auction platform** using **GraphQL**
 - 🎯 Open to remote work opportunities and collaborations
 
